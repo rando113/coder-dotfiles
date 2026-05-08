@@ -12,5 +12,4 @@ rm -f ~/.config/google-chrome/SingletonCookie || echo "Good! No Chrome Singleton
 
 #ln -sf "$DOTFILES_DIR/.vimrc" "$HOME/.vimrc"
 #ln -sf "$DOTFILES_DIR/.gitconfig" "$HOME/.gitconfig"
-# Add more as needed
 
